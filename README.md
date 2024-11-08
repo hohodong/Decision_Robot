@@ -5,7 +5,9 @@
 
 本项目初步技术架构图如图：
 
-![项目架构图](https://github.com/user-attachments/assets/4865beca-f062-4d8c-88fe-5713e99cba86)
+
+![项目架构图](https://github.com/user-attachments/assets/4f0eea5b-bb5c-4cfe-9300-c892e0c77d52)
+
 
 该系统分为三部分：
  - 1、实时数据预处理与基于提示词工程的结构化Prompt生成
