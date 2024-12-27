@@ -15,7 +15,7 @@ if __name__ == "__main__":
     is_lite = "lite" in sys.argv
 
     st.set_page_config(
-        "应急管理问答系统 WebUI",
+        "应急管理问答系统",
         os.path.join("img", "logo.svg"),
         initial_sidebar_state="expanded",
         menu_items={
@@ -40,7 +40,7 @@ if __name__ == "__main__":
         st.image(
             os.path.join(
                 "img",
-                "logo.svg"
+                "logo.png"
             ),
             use_column_width=True
         )
@@ -48,9 +48,9 @@ if __name__ == "__main__":
         #     f"""<p align="middle">应急管理问答系统</p>""",
         #     unsafe_allow_html=True,
         # )
-        st.caption(
-            ":blue[应急管理问答系统]"
-        )
+        # st.caption(
+        #     ":blue[应急管理问答系统]"
+        # )
         options = list(pages)
         icons = [x["icon"] for x in pages.values()]
 
