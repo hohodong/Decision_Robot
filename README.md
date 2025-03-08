@@ -4,7 +4,7 @@
 
 本项目技术架构图如图：
 
-![系统架构图](https://github.com/user-attachments/assets/d3b50f89-4570-40d5-b3bb-89df791de787)
+![项目架构图](https://github.com/user-attachments/assets/0e697969-13c7-4fe3-8c0b-7cce5e4c0e0c)
 
 
 # 本地部署方案
